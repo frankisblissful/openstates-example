@@ -1,0 +1,162 @@
+[
+  {
+    "bill_id": "SB 47",
+    "type": [
+      "bill",
+      "appropriation",
+      "fiscal committee",
+      "urgency"
+    ],
+    "id": "CAB00019812",
+    "chamber": "upper",
+    "updated_at": "2017-02-18T08:03:14",
+    "created_at": "2017-01-02T08:01:39",
+    "title": "Budget Act of 2016.",
+    "subjects": [],
+    "state": "ca",
+    "session": "20172018"
+  },
+  {
+    "bill_id": "SB 28",
+    "type": [
+      "bill",
+      "appropriation",
+      "fiscal committee",
+      "urgency"
+    ],
+    "id": "CAB00019875",
+    "chamber": "upper",
+    "updated_at": "2017-02-18T08:03:18",
+    "created_at": "2017-01-02T08:01:39",
+    "title": "State public employment: memoranda of understanding: approval.",
+    "subjects": [],
+    "state": "ca",
+    "session": "20172018"
+  },
+  {
+    "bill_id": "SB 48",
+    "type": [
+      "bill",
+      "appropriation",
+      "fiscal committee",
+      "urgency"
+    ],
+    "id": "CAB00019918",
+    "chamber": "upper",
+    "updated_at": "2017-02-18T08:03:21",
+    "created_at": "2017-01-02T08:01:39",
+    "title": "State public employee benefits.",
+    "subjects": [],
+    "state": "ca",
+    "session": "20172018"
+  },
+  {
+    "bill_id": "SCR 13",
+    "type": [
+      "concurrent resolution"
+    ],
+    "id": "CAB00019977",
+    "chamber": "upper",
+    "updated_at": "2017-02-18T08:03:16",
+    "created_at": "2017-01-05T08:01:38",
+    "title": "Relative to Lunar New Year Celebration.",
+    "subjects": [],
+    "state": "ca",
+    "session": "20172018"
+  },
+  {
+    "bill_id": "SB 146",
+    "type": [
+      "bill",
+      "fiscal committee"
+    ],
+    "id": "CAB00020161",
+    "chamber": "upper",
+    "updated_at": "2017-02-19T08:02:43",
+    "created_at": "2017-01-18T08:01:43",
+    "title": "Water resources: permit to appropriate: application procedure.",
+    "subjects": [],
+    "state": "ca",
+    "session": "20172018"
+  },
+  {
+    "bill_id": "SCR 17",
+    "type": [
+      "concurrent resolution"
+    ],
+    "id": "CAB00020273",
+    "chamber": "upper",
+    "updated_at": "2017-02-18T08:03:23",
+    "created_at": "2017-01-26T08:01:47",
+    "title": "Relative to California Girls and Women in Sports Week.",
+    "subjects": [],
+    "state": "ca",
+    "session": "20172018"
+  },
+  {
+    "bill_id": "SB 266",
+    "type": [
+      "bill",
+      "fiscal committee",
+      "local program"
+    ],
+    "id": "CAB00020509",
+    "chamber": "upper",
+    "updated_at": "2017-02-18T08:03:21",
+    "created_at": "2017-02-09T08:01:53",
+    "title": "Armed service members: consumer loans.",
+    "subjects": [],
+    "state": "ca",
+    "session": "20172018"
+  },
+  {
+    "bill_id": "SB 494",
+    "type": [
+      "bill",
+      "fiscal committee",
+      "local program"
+    ],
+    "id": "CAB00021174",
+    "chamber": "upper",
+    "updated_at": "2017-02-18T08:03:13",
+    "created_at": "2017-02-17T08:02:15",
+    "title": "Language arts: reading: diagnostic tools and plans.",
+    "subjects": [],
+    "state": "ca",
+    "session": "20172018"
+  },
+  {
+    "bill_id": "SB 558",
+    "type": [
+      "bill",
+      "fiscal committee",
+      "local program",
+      "urgency",
+      "tax levy"
+    ],
+    "id": "CAB00021184",
+    "chamber": "upper",
+    "updated_at": "2017-02-18T08:03:13",
+    "created_at": "2017-02-17T08:02:16",
+    "title": "Property taxation: new construction exclusion: rain water capture system.",
+    "subjects": [],
+    "state": "ca",
+    "session": "20172018"
+  },
+  {
+    "bill_id": "SB 497",
+    "type": [
+      "bill",
+      "fiscal committee",
+      "local program"
+    ],
+    "id": "CAB00021185",
+    "chamber": "upper",
+    "updated_at": "2017-02-18T08:03:13",
+    "created_at": "2017-02-17T08:02:16",
+    "title": "Firearms: transfers.",
+    "subjects": [],
+    "state": "ca",
+    "session": "20172018"
+  }
+]
