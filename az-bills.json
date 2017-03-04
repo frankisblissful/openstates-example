@@ -1,0 +1,142 @@
+[
+  {
+    "updated_at": "2017-03-01T08:18:58",
+    "id": "AZB00011056",
+    "created_at": "2017-01-14T07:31:15",
+    "chamber": "upper",
+    "state": "az",
+    "bill_id": "SB 1069",
+    "title": "vacating felony conviction; record destruction",
+    "session": "53rd-1st-regular",
+    "type": [
+      "bill"
+    ],
+    "subjects": []
+  },
+  {
+    "updated_at": "2017-03-01T08:18:58",
+    "id": "AZB00011496",
+    "created_at": "2017-01-18T07:33:40",
+    "chamber": "upper",
+    "state": "az",
+    "bill_id": "SB 1110",
+    "title": "tax subtraction; uniformed services pay",
+    "session": "53rd-1st-regular",
+    "type": [
+      "bill"
+    ],
+    "subjects": []
+  },
+  {
+    "updated_at": "2017-03-01T08:18:59",
+    "id": "AZB00011498",
+    "created_at": "2017-01-18T07:33:41",
+    "chamber": "upper",
+    "state": "az",
+    "bill_id": "SB 1111",
+    "title": "vehicle liability insurance; minimum limits",
+    "session": "53rd-1st-regular",
+    "type": [
+      "bill"
+    ],
+    "subjects": []
+  },
+  {
+    "updated_at": "2017-03-01T08:19:00",
+    "id": "AZB00011505",
+    "created_at": "2017-01-18T07:33:41",
+    "chamber": "upper",
+    "state": "az",
+    "bill_id": "SB 1109",
+    "title": "fingerprinting; child placement; IT contractors",
+    "session": "53rd-1st-regular",
+    "type": [
+      "bill"
+    ],
+    "subjects": []
+  },
+  {
+    "updated_at": "2017-03-01T08:19:01",
+    "id": "AZB00011552",
+    "created_at": "2017-01-19T07:35:52",
+    "chamber": "upper",
+    "state": "az",
+    "bill_id": "SB 1147",
+    "title": "technical correction; overtaking bicycles",
+    "session": "53rd-1st-regular",
+    "type": [
+      "bill"
+    ],
+    "subjects": []
+  },
+  {
+    "updated_at": "2017-03-01T08:19:00",
+    "id": "AZB00011619",
+    "created_at": "2017-01-24T07:41:23",
+    "chamber": "upper",
+    "state": "az",
+    "bill_id": "SB 1217",
+    "title": "corporation commission; telecommunications; rates",
+    "session": "53rd-1st-regular",
+    "type": [
+      "bill"
+    ],
+    "subjects": []
+  },
+  {
+    "updated_at": "2017-03-01T08:19:00",
+    "id": "AZB00011624",
+    "created_at": "2017-01-24T07:41:23",
+    "chamber": "upper",
+    "state": "az",
+    "bill_id": "SB 1207",
+    "title": "advanced certification; assessor personnel; compensation",
+    "session": "53rd-1st-regular",
+    "type": [
+      "bill"
+    ],
+    "subjects": []
+  },
+  {
+    "updated_at": "2017-03-01T08:19:02",
+    "id": "AZB00011643",
+    "created_at": "2017-01-24T07:41:24",
+    "chamber": "upper",
+    "state": "az",
+    "bill_id": "SB 1191",
+    "title": "political parties; notice; meetings",
+    "session": "53rd-1st-regular",
+    "type": [
+      "bill"
+    ],
+    "subjects": []
+  },
+  {
+    "updated_at": "2017-03-01T08:18:59",
+    "id": "AZB00011670",
+    "created_at": "2017-01-25T07:48:37",
+    "chamber": "upper",
+    "state": "az",
+    "bill_id": "SB 1278",
+    "title": "felony pretrial intervention programs; appropriation",
+    "session": "53rd-1st-regular",
+    "type": [
+      "bill"
+    ],
+    "subjects": []
+  },
+  {
+    "updated_at": "2017-03-01T08:18:59",
+    "id": "AZB00011673",
+    "created_at": "2017-01-25T07:48:37",
+    "chamber": "upper",
+    "state": "az",
+    "bill_id": "SB 1296",
+    "title": "funeral director licensure",
+    "session": "53rd-1st-regular",
+    "type": [
+      "bill"
+    ],
+    "subjects": []
+  }
+]

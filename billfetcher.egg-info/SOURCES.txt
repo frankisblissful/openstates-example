@@ -1,0 +1,5 @@
+billfetcher.egg-info/PKG-INFO
+billfetcher.egg-info/SOURCES.txt
+billfetcher.egg-info/dependency_links.txt
+billfetcher.egg-info/requires.txt
+billfetcher.egg-info/top_level.txt

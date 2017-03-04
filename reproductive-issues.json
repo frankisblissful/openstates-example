@@ -1,0 +1,200 @@
+[
+  {
+    "subjects": [
+      "Reproductive Issues"
+    ],
+    "id": "CAB00010251",
+    "bill_id": "AB 154",
+    "chamber": "lower",
+    "session": "20132014",
+    "title": "Abortion.",
+    "created_at": "2013-01-29T00:05:56",
+    "state": "ca",
+    "updated_at": "2014-05-19T23:22:35",
+    "type": [
+      "bill",
+      "fiscal committee",
+      "local program"
+    ]
+  },
+  {
+    "subjects": [
+      "Reproductive Issues",
+      "Sexual Orientation and Gender Issues"
+    ],
+    "id": "CAB00006764",
+    "bill_id": "AB 185",
+    "chamber": "lower",
+    "session": "20112012",
+    "title": "Maternity services.",
+    "created_at": "2011-03-24T20:45:20",
+    "state": "ca",
+    "updated_at": "2012-10-11T14:11:14",
+    "type": [
+      "bill",
+      "fiscal committee"
+    ]
+  },
+  {
+    "subjects": [
+      "Reproductive Issues",
+      "Sexual Orientation and Gender Issues"
+    ],
+    "id": "CAB00005475",
+    "bill_id": "SB 222",
+    "chamber": "upper",
+    "session": "20112012",
+    "title": "Maternity services.",
+    "created_at": "2011-03-24T20:45:13",
+    "state": "ca",
+    "updated_at": "2012-10-11T14:09:23",
+    "type": [
+      "bill"
+    ]
+  },
+  {
+    "subjects": [
+      "Reproductive Issues",
+      "Sexual Orientation and Gender Issues"
+    ],
+    "id": "CAB00006789",
+    "bill_id": "AB 210",
+    "chamber": "lower",
+    "session": "20112012",
+    "title": "Maternity services.",
+    "created_at": "2011-03-24T20:45:20",
+    "state": "ca",
+    "updated_at": "2012-10-11T14:11:37",
+    "type": [
+      "bill"
+    ]
+  },
+  {
+    "subjects": [
+      "Reproductive Issues",
+      "Sexual Orientation and Gender Issues"
+    ],
+    "id": "CAB00005408",
+    "bill_id": "SB 155",
+    "chamber": "upper",
+    "session": "20112012",
+    "title": "Maternity services.",
+    "created_at": "2011-03-24T20:45:13",
+    "state": "ca",
+    "updated_at": "2012-10-11T14:09:18",
+    "type": [
+      "bill",
+      "fiscal committee"
+    ]
+  },
+  {
+    "subjects": [
+      "Reproductive Issues",
+      "Health"
+    ],
+    "id": "CAB00007033",
+    "bill_id": "AB 454",
+    "chamber": "lower",
+    "session": "20112012",
+    "title": "Protective orders: early termination.",
+    "created_at": "2011-03-24T20:45:22",
+    "state": "ca",
+    "updated_at": "2012-10-11T14:12:18",
+    "type": [
+      "bill"
+    ]
+  },
+  {
+    "subjects": [
+      "Reproductive Issues",
+      "Sexual Orientation and Gender Issues"
+    ],
+    "id": "CAB00002636",
+    "bill_id": "AB 1825",
+    "chamber": "lower",
+    "session": "20092010",
+    "title": "An act to add Section 10123.865 to, and to add and repeal Section 10123.866 of, the Insurance Code, relating to health care coverage.",
+    "created_at": "2010-07-09T17:26:25",
+    "state": "ca",
+    "updated_at": "2012-04-06T17:17:11",
+    "type": [
+      "bill",
+      "fiscal committee"
+    ]
+  },
+  {
+    "subjects": [
+      "Labor and Employment",
+      "Sexual Orientation and Gender Issues",
+      "Reproductive Issues"
+    ],
+    "id": "CAB00003350",
+    "bill_id": "AB 2468",
+    "chamber": "lower",
+    "session": "20092010",
+    "title": "An act to add Section 1034 to the Labor Code, relating to lactation accommodation.",
+    "created_at": "2010-07-09T17:27:12",
+    "state": "ca",
+    "updated_at": "2012-04-06T17:17:23",
+    "type": [
+      "bill",
+      "fiscal committee"
+    ]
+  },
+  {
+    "subjects": [
+      "Reproductive Issues",
+      "Health",
+      "Sexual Orientation and Gender Issues"
+    ],
+    "id": "CAB00003875",
+    "bill_id": "AB 420",
+    "chamber": "lower",
+    "session": "20092010",
+    "title": "An act to add and repeal Article 1.6 (commencing with Section 123259) of Part 2 of Division 106 of the Health and Safety Code, relating to maternal health, and making an appropriation therefor.",
+    "created_at": "2010-07-09T17:27:50",
+    "state": "ca",
+    "updated_at": "2012-04-06T17:17:32",
+    "type": [
+      "bill",
+      "appropriation",
+      "fiscal committee"
+    ]
+  },
+  {
+    "subjects": [
+      "Reproductive Issues",
+      "Sexual Orientation and Gender Issues"
+    ],
+    "id": "CAB00004495",
+    "bill_id": "AB 98",
+    "chamber": "lower",
+    "session": "20092010",
+    "title": "An act to add Section 10123.865 to the Insurance Code, relating to health care coverage.",
+    "created_at": "2010-07-09T17:28:36",
+    "state": "ca",
+    "updated_at": "2012-04-06T17:17:42",
+    "type": [
+      "bill",
+      "fiscal committee"
+    ]
+  },
+  {
+    "subjects": [
+      "Reproductive Issues",
+      "Health",
+      "Sexual Orientation and Gender Issues"
+    ],
+    "id": "CAB00002072",
+    "bill_id": "AB 1317",
+    "chamber": "lower",
+    "session": "20092010",
+    "title": "An act to add Chapter 1.5 (commencing with Section 125325) to Part 5.5 of Division 106 of the Health and Safety Code, relating to public health.",
+    "created_at": "2010-07-09T17:25:49",
+    "state": "ca",
+    "updated_at": "2012-04-06T17:17:02",
+    "type": [
+      "bill"
+    ]
+  }
+]

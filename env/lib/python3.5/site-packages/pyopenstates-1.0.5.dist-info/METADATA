@@ -1,0 +1,13 @@
+Metadata-Version: 2.0
+Name: pyopenstates
+Version: 1.0.5
+Summary: A client for the Open States API
+Home-page: https://upenstates.github.io/opyopenstates/
+Author: Sean Whalen
+Author-email: whalenster@gmail.com
+License: Apache 2.0
+Requires-Dist: requests
+
+pyopenstates
+
+
